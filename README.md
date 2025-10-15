@@ -22,8 +22,7 @@ I enjoy building things that blend **logic and creativity**, whether it’s auto
 ### 🎯 Current Focus  
 - Deep-diving into **Python fundamentals and advanced concepts**  
 - Building **small personal projects** to strengthen logic and consistency  
-- Gradually moving toward **backend and real-world development**  
-- Exploring **video/photo editing** as a creative side skill  
+- Gradually moving toward **backend and real-world development**   
 
 ---
 
