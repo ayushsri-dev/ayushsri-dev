@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Ayush Srivastava  
 
-💡 **Aspiring Python Developer | Passionate Learner | Code Craftsman in Progress**
+💡 **Aspiring Python Developer | Passionate Learner**  
+_Exploring technology one commit at a time._
 
 ---
 
@@ -39,4 +40,4 @@ I believe in learning something new every single day — and turning that knowle
 
 ---
 
-⭐ *Thanks for visiting my profile! I’m just getting started — stay tuned for projects and updates.*
+⭐ *Thanks for visiting my profi*
