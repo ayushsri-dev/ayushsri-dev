@@ -40,4 +40,4 @@ I believe in learning something new every single day — and turning that knowle
 
 ---
 
-⭐ *Thanks for visiting my profi*
+⭐ *Thanks for visiting my profile.*
