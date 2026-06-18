@@ -1,0 +1,85 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    
+    .bg { fill: #0d1117; rx: 15px; }
+    .term-header { fill: #161b22; rx: 15px 15px 0 0; }
+    .circle { stroke-width: 1.5; }
+    .red { fill: #ff5f56; stroke: #e0443e; }
+    .yellow { fill: #ffbd2e; stroke: #dea123; }
+    .green { fill: #27c93f; stroke: #1aab29; }
+    
+    text { font-family: 'JetBrains Mono', Consolas, Monaco, monospace; font-size: 16px; }
+    .brand { font-size: 32px; font-weight: 700; fill: #ffffff; filter: drop-shadow(0 0 8px #00F5FF); }
+    .accent { fill: #00F5FF; font-weight: 700; }
+    .dim { fill: #6e7681; }
+    .command { fill: #79c0ff; }
+    .str { fill: #a5d6ff; }
+    
+    .cursor {
+      fill: #00F5FF;
+      animation: blink 1s step-end infinite;
+    }
+    
+    @keyframes blink { 50% { opacity: 0; } }
+    
+    .load-bar {
+      fill: #00F5FF;
+      transform-origin: left;
+      animation: load 1.5s ease-in-out forwards;
+      filter: drop-shadow(0 0 5px #00F5FF);
+    }
+    @keyframes load { 0% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+    
+    .flicker { animation: flicker 0.1s ease-in-out 2; animation-delay: 1s;}
+    @keyframes flicker { 0% { opacity: 0; } 10% { opacity: 1; } 20% { opacity: 0; } 30% { opacity: 1; } 100% { opacity: 1; } }
+
+    .line1 { animation: fadeIn 0.3s ease-out forwards; animation-delay: 0.2s; opacity: 0; }
+    .line2 { animation: fadeIn 0.3s ease-out forwards; animation-delay: 0.4s; opacity: 0; }
+    .line3 { animation: fadeIn 0.3s ease-out forwards; animation-delay: 1.7s; opacity: 0; }
+    .line4 { animation: fadeIn 0.3s ease-out forwards; animation-delay: 1.9s; opacity: 0; }
+    
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+
+  <rect width="900" height="300" class="bg"/>
+  <rect width="900" height="40" class="term-header"/>
+  <circle cx="25" cy="20" r="6" class="red"/>
+  <circle cx="45" cy="20" r="6" class="yellow"/>
+  <circle cx="65" cy="20" r="6" class="green"/>
+  <text x="450" y="25" text-anchor="middle" class="dim" font-size="14">ayush@developer:~</text>
+
+  <text x="450" y="100" text-anchor="middle" class="brand">⚡ AYUSH_SRIVASTAVA</text>
+
+  <g transform="translate(150, 140)">
+    <g class="line1">
+      <text x="0" y="0" class="accent">&gt;</text>
+      <text x="25" y="0" class="command">boot --profile</text>
+      <text x="170" y="0" class="str">./ayush_srivastava.dev</text>
+    </g>
+    
+    <g class="line2">
+      <text x="0" y="30" class="dim">[</text>
+      <rect x="20" y="18" width="560" height="15" fill="#161b22" rx="4"/>
+      <rect x="20" y="18" width="560" height="15" class="load-bar" rx="4"/>
+      <text x="590" y="30" class="dim">]</text>
+    </g>
+    
+    <g class="line3">
+      <text x="0" y="70" class="dim">STATUS   :: </text>
+      <text x="130" y="70" fill="#27c93f" font-weight="700" class="flicker">● ONLINE</text>
+      
+      <text x="300" y="70" class="dim">ROLE     :: </text>
+      <text x="430" y="70" fill="#ffffff">FULL STACK DEV</text>
+    </g>
+    
+    <g class="line4">
+      <text x="0" y="100" class="dim">LOCATION :: </text>
+      <text x="130" y="100" fill="#ffffff">INDIA 🇮🇳</text>
+      
+      <text x="300" y="100" class="dim">SYSTEM   :: </text>
+      <text x="430" y="100" class="accent">READY</text>
+      <rect x="495" y="85" width="10" height="20" class="cursor"/>
+    </g>
+  </g>
+</svg>
