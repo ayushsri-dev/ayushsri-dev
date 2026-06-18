@@ -1,96 +1,106 @@
 <div align="center">
-  <!-- Animated Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CyberSec%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&descSize=20" alt="Animated Header" />
-</div>
-
-<div align="center">
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Writing+clean,+logical+code;Exploring+Cybersecurity;Crushing+Competitive+Programming;Contributing+to+Open+Source" alt="Typing SVG" />
+  <!-- Dynamic Terminal-Style Header -->
+  <a href="https://github.com/ayushsri-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=>+Hello,+I'm+Ayush+Srivastava_;>+Software+Engineer+%7C+CyberSec+%7C+Open+Source;>+Currently+contributing+to+GSSoC_..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 🧭 About Me
-I am a passionate tech enthusiast bridging the gap between **software engineering, cybersecurity, and data exploration**. Whether I am hunting vulnerabilities, optimizing low-level algorithms, or analyzing data, I thrive on building efficient, secure, and meaningful solutions. 
+### ⚙️ Architecture & Logic
 
-- 🔭 **Currently working on:** Open Source contributions and mastering algorithmic problem-solving.
-- 🕵️ **Currently exploring:** Advanced Cybersecurity concepts and Data Analysis (NumPy/Pandas).
-- 🤝 **Looking to collaborate on:** Open-source Python and C++ projects, or CTF challenges!
-- 💬 **Ask me about:** Python, C/C++, Competitive Programming, and tech philosophies.
+I bridge the gap between secure system architecture and high-performance algorithms. As an engineering undergrad, I spend my time diving deep into low-level memory management with **C/C++**, optimizing algorithmic bottlenecks, and tearing down vulnerabilities in **CTF environments**. 
+
+I believe in building software that is mathematically sound and security-first. Whether I am analyzing complex datasets using Python, competing in IICPC and Codeforces rounds, or contributing to global codebases, my focus is on writing clean, scalable, and resilient code.
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🔭 Current Operations</b><br><br>
+      Shipping production code and solving issues as an active contributor for <b>GirlScript Summer of Code (GSSoC)</b>.
+    </td>
+    <td align="center" width="50%">
+      <b>🎯 Active Focus</b><br><br>
+      Mastering Data Engineering pipelines (NumPy/Pandas) and tackling advanced Competitive Programming algorithms.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 🛠️ The Arsenal
 
 <div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash&theme=dark" alt="Languages" />
-  </a>
+  <p><strong>Systems & Core Logic</strong></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql&theme=dark" alt="Core Languages" />
   
-  <p><strong>Data & Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
-  </a>
-  <br>
-  <!-- Custom Badges for Numpy/Pandas -->
+  <p><strong>Data Engineering & Analytics</strong></p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  
+  <p><strong>Frontend & Architecture</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,kali&theme=dark" alt="Tools & Web" />
+</div>
 
-  <p><strong>Tools & Environments</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vim,vscode&theme=dark" alt="Tools" />
+---
+
+### 🚀 Featured Deployments & Contributions
+
+*   **[Project Name 1]** - *Software/Tool*
+    > A brief, highly technical one-liner explaining what this does (e.g., "A Python-based network packet sniffer utilizing socket programming for real-time traffic analysis.")
+    > `<tech-stack-used>`
+*   **[Project Name 2]** - *Data/Algorithms*
+    > A brief technical description (e.g., "Data analysis pipeline utilizing Pandas to parse and clean 10k+ rows of user telemetry data.")
+    > `<tech-stack-used>`
+
+---
+
+### 🛡️ CyberSec & Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Codeforces-Solving_&_Debugging-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Capture_The_Flag-Vulnerability_Research-black?style=for-the-badge&logo=hackthebox&logoColor=green" alt="CTF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GSSoC-Active_Contributor-F9A826?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Telemetry & Analytics
 
 <div align="center">
-  <!-- Dynamic GitHub Stats (TokyoNight Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsri-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Ayush's GitHub Stats" width="48%" />
-  <!-- Dynamic Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsri-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsri-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsri-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsri-dev&theme=tokyonight&hide_border=true&stroke=0000&title_color=38BDF8" alt="GitHub Streak" />
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushsri-dev/ayushsri-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushsri-dev/ayushsri-dev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ayushsri-dev/ayushsri-dev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-### 🏆 Current Focus & Activities
-
-*   🛡️ **Cybersecurity:** Actively learning ethical hacking, system vulnerabilities, and network security.
-*   🧠 **Competitive Programming:** Solving algorithmic challenges and optimizing code performance using C++ and Python.
-*   🌍 **Open Source:** Committing code to public repositories, fixing bugs, and collaborating with global developers.
-*   📈 **Data Engineering:** Utilizing `NumPy` and `Pandas` for data manipulation and analysis.
-
----
-
-### 📬 Let's Connect
+### 📡 Establish Connection
 
 <div align="center">
-  <a href="https://github.com/ayushsri-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Add your LinkedIn URL here -->
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Waving Animation" />
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
