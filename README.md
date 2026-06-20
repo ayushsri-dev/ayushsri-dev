@@ -1,25 +1,34 @@
-# 👋 Hey there, I'm Ayush Srivastava  
-
 <div align="center">
-  <!-- Animated Waving Banner (Kept As Is) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Srivastava&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CyberSec%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50&descSize=20" alt="Animated Header" />
+
+<img width="100%" src="./f0dbadd8-7619-4156-98f4-567305388928.png" alt="Ayush Srivastava Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Developer;Open+Source+Contributor;Competitive+Programmer;Building+Impactful+Web+Applications;Exploring+AI+%26+System+Design" />
+
 </div>
 
-<div align="center">
-  <!-- Animated Terminal Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Menlo&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=➜++Writing+clean%2C+logical+code...;➜++Exploring+network+vulnerabilities...;➜++Crushing+Competitive+Programming...;➜++Contributing+to+Open+Source..." alt="Terminal Typing" />
-  </a>
-</div>
+---
 
-<br/>
+## 👨‍💻 About Me
 
-🔴 🟡 🟢
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Menlo&weight=600&size=18&pause=3000&color=38BDF8&vCenter=true&width=600&lines=ayush@macbook+~+%25+cat+whoami.txt" alt="Command: whoami" />
+```yaml
+name: Ayush Srivastava
+education: Electrical Engineering @ IIEST Shibpur
+role: Developer
+interests:
+  - Full Stack Development
+  - Open Source
+  - AI & System Design
+  - Competitive Programming
 
-> 💡 **Aspiring Python Developer | CyberSec Enthusiast**  
-> I am a passionate tech enthusiast bridging the gap between **software engineering, cybersecurity, and data exploration**. Whether I am hunting vulnerabilities, optimizing low-level algorithms, or analyzing data with Python, I thrive on building efficient, secure, and meaningful solutions.
+currently:
+  - Contributing to Open Source
+  - Building Web Applications
+  - Learning Advanced Development Concepts
+
+fun_fact:
+  "Always building, always learning 🚀"
 
 ---
 
