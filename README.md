@@ -29,6 +29,7 @@ currently:
 
 fun_fact:
   "Always building, always learning 🚀"
+```
 
 ---
 
