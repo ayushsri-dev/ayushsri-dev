@@ -55,7 +55,7 @@ fun_fact:
   
   <!-- Streamlined Tech Pipeline -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,kali,linux,vim,vscode,git,github,mysql,postgres&theme=dark&perline=15" alt="Tech Stack Pipeline" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,vscode,git,github,mysql&theme=dark&perline=15" alt="Tech Stack Pipeline" />
   </a>
   <br><br>
   
