@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./f0dbadd8-7619-4156-98f4-567305388928.png" alt="Ayush Srivastava Banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/ayushsri-dev/ayushsri-dev/main/Hero_section_gif.gif"/>
 
 <br><br>
 
